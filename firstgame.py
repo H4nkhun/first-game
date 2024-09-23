@@ -2,7 +2,6 @@
 import random
 # random a number as num
 num = random.randint(1,100)
-print(num)
 attemps = 0
 while True:
   attemps += 1
